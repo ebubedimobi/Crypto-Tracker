@@ -1,5 +1,5 @@
 
-#  Daily Weather
+#  Crypto Tracker
 
 A beautiful, dark-mode enabled Crypto Currency Tracker. You"ll be able to get the latest exchange rates for popular currencies
 
